@@ -1,4 +1,6 @@
+@import url('https://v1.fontapi.ir/css/Samim');
 body {
+	font-family: samim;
 	display: flex;
 	align-items: center;
 	justify-content: center;
